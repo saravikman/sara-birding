@@ -107,7 +107,7 @@ export default function BirdGrid({ birds }) {
               exit={{ scale: 0.9, opacity: 0, y: 10 }}
               transition={{ duration: 0.15, ease: 'easeOut' }}
             >
-              <div className=" p-10 flex flex-col justify-between gap-2 w-full text-black">
+              <div className=" p-10 flex flex-col justify-between gap-2 w-full text-black min-w-[85vw]">
                 <div>
                   <p className="font-display text-3xl md:text-4xl uppercase">{selectedBird.name}</p>
                   <p className="font-display text-base uppercase opacity-60">
@@ -130,7 +130,7 @@ export default function BirdGrid({ birds }) {
                   }}
                   className={`w-full ${
                     isVertical
-                      ? 'max-h-[70vh] md:max-h-[90vh] object-contain'
+                      ? 'max-h-[50vh] md:max-h-[90vh] object-cover'
                       : 'max-h-[90vh] md:h-[80vh] object-cover'
                   }`}
                 />
