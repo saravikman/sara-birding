@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Annapurna+SIL:wght@400;700&family=Bellefair&family=Forum&display=swap');
+@import '../../node_modules/lenis/dist/lenis.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --light: #f2f1ed;
+  --dark: #111111;
+}
+
+body {
+  color: var(--dark);
+  background: var(--light);
+  font-size: 14px;
+}
