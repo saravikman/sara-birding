@@ -1,0 +1,312 @@
+category,myCategory,type,name,latinName,found,filter,photoPlace,photoDate,photo
+Änder,Vattenfågel,F,Prutgås,Branta bernicla,FALSE,nf,,,null
+Änder,Vattenfågel,T,Rödhalsad gås,Branta ruficollis,FALSE,nf,,,null
+Änder,Vattenfågel,H,Kanadagås,Branta canadensis,FALSE,nf,,,null
+Änder,Vattenfågel,H,Vitkindad gås,Branta leucopsis,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-vitkindadgas_260502_djurgarden_3132.jpg
+Änder,Vattenfågel,H,Grågås,Anser anser,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-gragas_260502_djurgarden_3166.jpg
+Änder,Vattenfågel,H,Sädgås,Anser fabalis,FALSE,nf,,,null
+Änder,Vattenfågel,F,Spetsbergsgås,Anser brachyrhynchus,FALSE,nf,,,null
+Änder,Vattenfågel,H,Bläsgås,Anser albifrons,FALSE,nf,,,null
+Änder,Vattenfågel,H,Fjällgås,Anser erythropus,FALSE,nf,,,null
+Änder,Vattenfågel,H,Knölsvan,Cygnus olor,TRUE,Check,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-knolsvan_250511_nyckelviken_2865.jpg
+Änder,Vattenfågel,F,Mindre sångsvan,Cygnus columbianus,FALSE,nf,,,null
+Änder,Vattenfågel,H,Sångsvan,Cygnus cygnus,FALSE,nf,,,null
+Änder,Vattenfågel,T,Nilgås,Alopochen aegyptiaca,FALSE,nf,,,null
+Änder,Vattenfågel,H,Gravand,Tadorna tadorna,FALSE,nf,,,null
+Änder,Vattenfågel,T,Rostand,Tadorna ferruginea,FALSE,nf,,,null
+Änder,Vattenfågel,H,Årta,Anas querquedula,FALSE,nf,,,null
+Änder,Vattenfågel,H,Skedand,Anas clypeata,FALSE,nf,,,null
+Änder,Vattenfågel,H,Snatterand,Anas strepera,FALSE,nf,,,null
+Änder,Vattenfågel,H,Bläsand,Anas penelope,FALSE,nf,,,null
+Änder,Vattenfågel,H,Gräsand,Anas platyrhynchos,TRUE,Star,Erstaviken,2026-05-01,https://www.datocms-assets.com/147026/1777804330-grasand_260502_erstavik_3115.jpg
+Änder,Vattenfågel,H,Stjärtand,Anas acuta,FALSE,nf,,,null
+Änder,Vattenfågel,H,Kricka,Anas crecca,FALSE,nf,,,null
+Änder,Vattenfågel,T,Amerikansk kricka,Anas carolinensis,FALSE,nf,,,null
+Änder,Vattenfågel,T,Rödhuvad dykand,Netta rufina,FALSE,nf,,,null
+Änder,Vattenfågel,H,Brunand,Aythya ferina,FALSE,nf,,,null
+Änder,Vattenfågel,H,Vigg,Aythya fuligula,TRUE,Star,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-vigg_250511_nyckelviken_2837.jpg
+Änder,Vattenfågel,H,Bergand,Aythya marila,FALSE,nf,,,null
+Änder,Vattenfågel,T,Alförrädare,Polysticta stelleri,FALSE,nf,,,null
+Änder,Vattenfågel,T,Praktejder,Somateria spectabilis,FALSE,nf,,,null
+Änder,Vattenfågel,H,Ejder,Somateria mollissima,FALSE,nf,,,null
+Änder,Vattenfågel,H,Svärta,Melanitta fusca,FALSE,nf,,,null
+Änder,Vattenfågel,H,Sjöorre,Melanitta nigra,FALSE,nf,,,null
+Änder,Vattenfågel,H,Alfågel,Clangula hyemalis,FALSE,nf,,,null
+Änder,Vattenfågel,H,Knipa,Bucephala clangula,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-knipa_260502_djurgarden_3185.jpg
+Änder,Vattenfågel,H,Salskrake,Mergus albellus,FALSE,nf,,,null
+Änder,Vattenfågel,H,Småskrake,Mergellus serrator,FALSE,nf,,,null
+Änder,Vattenfågel,H,Storskrake,Mergus merganser,TRUE,Check,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804331-storskrake_260502_djurgarden_3140.jpg
+Änder,Vattenfågel,T,Mandarinand,Aix galericulata,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Järpe,Tetrastes bonasia,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Dalripa,Lagopus lagopus,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Fjällripa,Lagopus muta,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Orre,Lyrurus tetrix,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Tjäder,Tetrao urogallus,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Rapphöna,Perdix perdix,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Vaktel,Coturnix coturnix,FALSE,nf,,,null
+Fasanfåglar,Hönsfågel,H,Fasan,Phasianus colchicus,FALSE,nf,,,null
+Lommar,Vattenfågel,H,Smålom,Gavia stellata,FALSE,nf,,,null
+Lommar,Vattenfågel,H,Storlom,Gavia arctica,FALSE,nf,,,null
+Lommar,Vattenfågel,T,Svartnäbbad islom,Gavia immer,FALSE,nf,,,null
+Lommar,Vattenfågel,T,Vitnäbbad islom,Gavia adamsii,FALSE,nf,,,null
+Nordstormsvalor,Vattenfågel,T,Klykstjärtad stormsvala,Oceanodroma leucorhoa,FALSE,nf,,,null
+Nordstormsvalor,Vattenfågel,F,Stormfågel,Fulmarus glacialis,FALSE,nf,,,null
+Nordstormsvalor,Vattenfågel,T,Grålira,Ardenna grisea,FALSE,nf,,,null
+Nordstormsvalor,Vattenfågel,T,Mindre lira,Puffinus puffinus,FALSE,nf,,,null
+Doppingar,Vattenfågel,H,Smådopping,Tachybaptus ruficollis,FALSE,nf,,,null
+Doppingar,Vattenfågel,H,Skäggdopping,Podiceps cristatus,TRUE,Check,Boo,,https://www.datocms-assets.com/147026/1777804264-skaggdopping_mobile_img_20250524_102356.jpg
+Doppingar,Vattenfågel,H,Gråhakedopping,Podiceps grisegena,FALSE,nf,,,null
+Doppingar,Vattenfågel,H,Svarthakedopping,Podiceps auritus,FALSE,nf,,,null
+Doppingar,Vattenfågel,H,Svarthalsad dopping,Podiceps nigricollis,FALSE,nf,,,null
+Storkar,,T,Svart stork,Ciconia nigra,FALSE,nf,,,null
+Storkar,,h,Vit stork,Ciconia ciconia,FALSE,nf,,,null
+Hägrar,,H,Rördrom,Botaurus stellaris,FALSE,nf,,,null
+Hägrar,,H,Gråhäger,Ardea cinerea,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-grahager_260502_djurgarden_3144.jpg
+Hägrar,,H,Ägretthäger,Ardea alba,FALSE,nf,,,null
+Sulor,,F,Havssula,Morus bassanus,FALSE,nf,,,null
+Skarvar,,H,Toppskarv,Phalacrocorax aristotelis,FALSE,nf,,,null
+Skarvar,,H,Storskarv,Phalacrocorax carbo,TRUE,Check,Takene,2025-04-30,https://www.datocms-assets.com/147026/1777804264-storskarv_250430_takene_2806.jpg
+Fiskgjusar,Rovfågel,H,Fiskgjuse,Pandion haliaetus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Bivråk,Pernis apivorus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,T,Mindre skrikörn,Clanga pomarina,FALSE,nf,,,null
+Rovfåglar,Rovfågel,T,Större skrikörn,Clanga clanga,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Kungsörn,Aquila chrysaetos,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Sparvhök,Accipiter nisus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Duvhök,Accipiter gentilis,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Brun kärrhök,Circus aeruginosus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Blå kärrhök,Circus cyaneus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,T,Stäpphök,Circus macrourus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Ängshök,Circus pygargus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Röd glada,Milvus milvus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Brun glada,Milvus migrans,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Havsörn,Haliaeetus albicilla,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Fjällvråk,Buteo lagopus,FALSE,nf,,,null
+Rovfåglar,Rovfågel,H,Ormvråk,Buteo buteo,TRUE,Check,Nyckelviken,2026-04-09,https://www.datocms-assets.com/147026/1777804331-ormvrak_mobile.jpg
+Rallar,Vadarfågel,H,Vattenrall,Rallus aquaticus,FALSE,nf,,,null
+Rallar,Vadarfågel,H,Kornknarr,Crex crex,FALSE,nf,,,null
+Rallar,Vadarfågel,T,Mindre sumphöna,Porzana parva,FALSE,nf,,,null
+Rallar,Vadarfågel,H,Småfläckig sumphöna,Porzana porzana,FALSE,nf,,,null
+Rallar,Vadarfågel,H,Rörhöna,Gallinula chloropus,FALSE,nf,,,null
+Rallar,Vadarfågel,H,Sothöna,Fulica atra,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-sothona_260502_djurgarden_3158.jpg
+Tranor,,H,Trana,Grus grus,FALSE,nf,,,null
+Strandskator,,H,Strandskata,Haematopus ostralegus,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804331-strandskata_260502_djurgarden_3184.jpg
+Skärfläckor,,H,Skärfläcka,Recurvirostra avosetta,FALSE,nf,,,null
+Pipare,Småfågel,H,Tofsvipa,Vanellus vanellus,FALSE,nf,,,null
+Pipare,Småfågel,H,Ljungpipare,Pluvialis apricaria,FALSE,nf,,,null
+Pipare,Småfågel,F,Kustpipare,Pluvialis squatarola,FALSE,nf,,,null
+Pipare,Småfågel,H,Större strandpipare,Charadrius hiaticula,FALSE,nf,,,null
+Pipare,Småfågel,H,Mindre strandpipare,Charadrius dubius,FALSE,nf,,,null
+Pipare,Småfågel,T,Svartbent strandpipare,Charadrius alexandrinus,FALSE,nf,,,null
+Pipare,Småfågel,H,Fjällpipare,Charadrius morinellus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Småspov,Numenius phaeopus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Storspov,Numenius arquata,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Myrspov,Limosa lapponica,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Rödspov,Limosa limosa,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Roskarl,Arenaria interpres,FALSE,nf,,,null
+Snäppor,Vadarfågel,F,Kustsnäppa,Calidris canutus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Myrsnäppa,Calidris falcinellus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Brushane,Calidris pugnax,FALSE,nf,,,null
+Snäppor,Vadarfågel,F,Spovsnäppa,Calidris ferruginea,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Mosnäppa,Calidris temminckii,FALSE,nf,,,null
+Snäppor,Vadarfågel,F,Sandlöpare,Calidris alba,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Kärrsnäppa,Calidris alba,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Skärsnäppa,Calidris maritima,FALSE,nf,,,null
+Snäppor,Vadarfågel,F,Småsnäppa,Calidris minuta,FALSE,nf,,,null
+Snäppor,Vadarfågel,T,Tuvsnäppa,Calidris melanotos,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Morkulla,Scolopax rusticola,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Dvärgbeckasin,Lymnocryptes minimus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Dubbelbeckasin,Gallinago media,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Enkelbeckasin,Gallinago gallinago,FALSE,nf,,,null
+Snäppor,Vadarfågel,T,Tereksnäppa,Xenus cinereus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Smalnäbbad simsnäppa,Phalaropus lobatus,FALSE,nf,,,null
+Snäppor,Vadarfågel,T,Brednäbbad simsnäppa,Phalaropus fulicarius,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Drillsnäppa,Actitis hypoleucos,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Skogssnäppa,Tringa ochropus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Rödbena,Tringa totanus,FALSE,nf,,,null
+Snäppor,Vadarfågel,T,Dammsnäppa,Tringa stagnatilis,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Grönbena,Tringa glareola,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Svartsnäppa,Tringa erythropus,FALSE,nf,,,null
+Snäppor,Vadarfågel,H,Gluttsnäppa,Tringa nebularia,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Tretåig mås,Rissa tridactyla,FALSE,nf,,,null
+Måsar,Vattenfågel,T,Tärnmås,Xema sabini,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Skrattmås,Chroicocephalus ridibundus,TRUE,Star,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-skrattmas_260502_djurgarden_3192.jpg
+Måsar,Vattenfågel,H,Dvärgmås,Hydrocoloeus minutus,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Svarthuvad mås,Ichthyaetus melanocephalus,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Fiskmås,Larus canus,TRUE,Check,Takene,2025-06-26,https://www.datocms-assets.com/147026/1777804264-fiskmas_250626_takene_2922.jpg
+Måsar,Vattenfågel,H,Havstrut,Larus marinus,FALSE,nf,,,null
+Måsar,Vattenfågel,T,Vittrut,Larus hyperboreus,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Gråtrut,Larus argentatus,FALSE,nf,,,null
+Måsar,Vattenfågel,T,Kaspisk trut,Larus cachinnans,FALSE,nf,,,null
+Måsar,Vattenfågel,T,Medelhavstrut,Larus michahellis,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Silltrut,Larus fuscus,TRUE,Star,Nyckelviken,2026-05-01,https://www.datocms-assets.com/147026/1777804330-silltrut_260501_nyckelviken_3125.jpg
+Måsar,Vattenfågel,H,Skräntärna,Hydroprogne caspia,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Kentsk tärna,Thalasseus sandvicensis,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Småtärna,Sternula albifrons,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Fisktärna,Sterna hirundo,TRUE,Check,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-fisktarna_250511_nyckelviken_2869.jpg
+Måsar,Vattenfågel,H,Silvertärna,Sterna paradisaea,FALSE,nf,,,null
+Måsar,Vattenfågel,T,Vitvingad tärna,Chlidonias leucopterus,FALSE,nf,,,null
+Måsar,Vattenfågel,H,Svarttärna,Chlidonias niger,FALSE,nf,,,null
+Labbar,Vattenfågel,T,Storlabb,Stercorarius skua,FALSE,nf,,,null
+Labbar,Vattenfågel,T,Bredstjärtad labb,Stercorarius pomarinus,FALSE,nf,,,null
+Labbar,Vattenfågel,H,Kustlabb,Stercoraris parasiticus,FALSE,nf,,,null
+Labbar,Vattenfågel,H,Fjällabb,Stercorarius longicaudus,FALSE,nf,,,null
+Alkor,Vadarfågel,F,Alkekung,Alle alle,FALSE,nf,,,null
+Alkor,Vadarfågel,H,Sillgrissla,Uria aalge,FALSE,nf,,,null
+Alkor,Vadarfågel,H,Tordmule,Alca torda,FALSE,nf,,,null
+Alkor,Vadarfågel,H,Tobisgrissla,Cepphus grylle,FALSE,nf,,,null
+Alkor,Vadarfågel,T,Lunnefågel,Fratercula arctica,FALSE,nf,,,null
+Duvor,Skogsfågel,H,Tamduva,Columba livia,FALSE,nf,,,null
+Duvor,Skogsfågel,H,Skogsduva,Columba oenas,FALSE,nf,,,null
+Duvor,Skogsfågel,H,Ringduva,Columba palumbus,TRUE,Check,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-ringduva_250511_nyckelviken_2832.jpg
+Duvor,Skogsfågel,T,Turturduva,Streptopelia turtur,FALSE,nf,,,null
+Duvor,Skogsfågel,H,Turkduva,Streptopelia decaocto,FALSE,nf,,,null
+Gökar,,H,Gök,Cuculus canorus,FALSE,nf,,,null
+Ugglor,Skogsfågel,h,Tornuggla,Tyto alba,FALSE,nf,,,null
+Ugglor,Skogsfågel,h,Fjälluggla,Bubo scandiacus,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Berguv,Bubo bubo,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Kattuggla,Strix aluco,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Slaguggla,Strix uralensis,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Lappuggla,Strix nebulosa,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Hökuggla,Surnia ulula,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Sparvuggla,Glaucidium passerinum,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Pärluggla,Aegolius funereus,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Hornuggla,Asio otus,FALSE,nf,,,null
+Ugglor,Skogsfågel,H,Jorduggla,Asio flammeus,FALSE,nf,,,null
+Nattskärror,,H,Nattskärra,Caprimulgus europaeus,FALSE,nf,,,null
+Seglare,,H,Tornseglare,Apus apus,FALSE,nf,,,null
+Blåkråka,,T,Blåkråka,Coracias garrulus,FALSE,nf,,,null
+Kungsfiskare,,H,Kungsfiskare,Alcedo atthis,FALSE,nf,,,null
+Biätare,,T,Biätare,Merops apiaster,FALSE,nf,,,null
+Härfåglar,,T,Härfågel,Upupa epops,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Göktyta,Jynx torquilla,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Tretåig hackspett,Picoides tridactylus,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Mindre hackspett,Dendrocopos minor,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Större hackspett,Dendrocopos major,TRUE,Star,Nyckelviken,2026-05-02,https://www.datocms-assets.com/147026/1777804330-storrehackspett_260502_nyckelviken_3210.jpg
+Hackspettar,Skogsfågel,H,Vitryggig hackspett,Dendrocopos leucotos,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Spillkråka,Dryocopus martius,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Gröngöling,Picus viridis,FALSE,nf,,,null
+Hackspettar,Skogsfågel,H,Gråspett,Picus canus,FALSE,nf,,,null
+Falkar,Rovfågel,H,Tornfalk,Falco tinnunculus,FALSE,nf,,,null
+Falkar,Rovfågel,T,Aftonfalk,Falco vespertinus,FALSE,nf,,,null
+Falkar,Rovfågel,H,Stenfalk,Falco columbarius,FALSE,nf,,,null
+Falkar,Rovfågel,H,Lärkfalk,Falco subbuteo,FALSE,nf,,,null
+Falkar,Rovfågel,H,Jaktfalk,Falco rusticolus,FALSE,nf,,,null
+Falkar,Rovfågel,H,Pilgrimsfalk,Falco peregrinus,FALSE,nf,,,null
+Törnskator,,H,Törnskata,Lanius collurio,FALSE,nf,,,null
+Törnskator,,T,Svartpannad törnskata,Lanius minor,FALSE,nf,,,null
+Törnskator,,H,Varfågel,Lanius excubitor,FALSE,nf,,,null
+Gyllingar,,H,Sommargylling,Oriolus oriolus,FALSE,nf,,,null
+Kråkfåglar,Kråkfågel,H,Lavskrika,Perisoreus infaustus,FALSE,nf,,,null
+Kråkfåglar,Kråkfågel,H,Nötskrika,Garrulus glandarius,TRUE,Star,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-notskrika_250511_nyckelviken_2829.jpg
+Kråkfåglar,Kråkfågel,H,Skata,Pica pica,TRUE,Star,Jarlaberg,2026-04-25,https://www.datocms-assets.com/147026/1777804330-skata_260425_jarlaberg_3066.jpg
+Kråkfåglar,Kråkfågel,H,Nötkråka,Nucifraga caryocatactes,FALSE,nf,,,null
+Kråkfåglar,Kråkfågel,H,Kaja,Corvus monedula,TRUE,Check,Jarlaberg,,https://www.datocms-assets.com/147026/1777804264-kaja_mobile_img_20250511_154721.jpg
+Kråkfåglar,Kråkfågel,H,Råka,Corvus frugilegus,FALSE,nf,,,null
+Kråkfåglar,Kråkfågel,H,Kråka,Corvus corone,TRUE,Check,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-grakraka_260502_djurgarden_3148.jpg
+Kråkfåglar,Kråkfågel,H,Korp,Corvus corax,FALSE,nf,,,null
+Sidensvansar,,H,Sidensvans,Bombycilla garrulus,FALSE,nf,,,null
+Mesar,Småfågel,H,Tofsmes,Lophophanes cristatus,FALSE,nf,,,null
+Mesar,Småfågel,H,Svartmes,Periparus ater,FALSE,nf,,,null
+Mesar,Småfågel,H,Entita,Poecile palustris,FALSE,nf,,,null
+Mesar,Småfågel,H,Talltita,Poecile montanus,FALSE,nf,,,null
+Mesar,Småfågel,H,Lappmes,Poecile cinctus,FALSE,nf,,,null
+Mesar,Småfågel,H,Blåmes,Cyanistes careuleus,TRUE,Star,Jarlaberg,2026-02-22,https://www.datocms-assets.com/147026/1777804330-blames_260222_jarlaberg_3046.jpg
+Mesar,Småfågel,H,Talgoxe,Parus major,TRUE,Star,Nyckelviken,2026-05-02,https://www.datocms-assets.com/147026/1777804331-talgoxe_260502_nyckelviken_3196.jpg
+Pungmes,,H,Pungmes,Remiz pendulinus,FALSE,nf,,,null
+Skäggmes,,H,Skäggmes,Panurus biarmicus,FALSE,nf,,,null
+Lärkor,Småfågel,H,Trädlärka,Lullula arborea,FALSE,nf,,,null
+Lärkor,Småfågel,H,Sånglärka,Alauda arvensis,FALSE,nf,,,null
+Lärkor,Småfågel,T,Tofslärka,Galerida cristata,FALSE,nf,,,null
+Lärkor,Småfågel,H,Berglärka,Eremophila alpestris,FALSE,nf,,,null
+Lärkor,Småfågel,T,Korttålärka,Calandrella brachydactyla,FALSE,nf,,,null
+Svalor,,H,Backsvala,Riparia riparia,FALSE,nf,,,null
+Svalor,,H,Ladusvala,Hirundo rustica,FALSE,nf,,,null
+Svalor,,H,Hussvala,Delichon urbicum,FALSE,nf,,,null
+Stjärtmesar,,H,Stjärtmes,Aegithalos caudatus,FALSE,nf,,,null
+Lövsångare,Småfågel,H,Lövsångare,Phylloscopus trochilus,FALSE,nf,,,null
+Lövsångare,Småfågel,H,Gransångare,Phylloscopus collybita,FALSE,nf,,,null
+Lövsångare,Småfågel,H,Grönsångare,Phylloscopus sibilatrix,FALSE,nf,,,null
+Lövsångare,Småfågel,T,Kungsfågelsångare,Phylloscopus proregulus,FALSE,nf,,,null
+Lövsångare,Småfågel,T,Tajgasångare,Phylloscopus inornatus,FALSE,nf,,,null
+Lövsångare,Småfågel,H,Nordsångare,Phylloscopus borealis,FALSE,nf,,,null
+Lövsångare,Småfågel,H,Lundsångare,Phylloscopus trochiloides,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Trastsångare,Acrocephalus arundinaceus,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Sävsångare,Acrocephalus schoenobaenus,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Busksångare,Acrocephalus dumetorum,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Rörsångare,Acrocephalus scirpaceus,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Kärrsångare,Acrocephalus palustris,FALSE,nf,,,null
+Rörsångare,Småfågel,H,Härmsångare,Hippolais icterina,FALSE,nf,,,null
+Gräsfåglar,,H,Gräshoppsångare,Locustella naevia,FALSE,nf,,,null
+Gräsfåglar,,H,Flodsångare,Locustella fluviatilis,FALSE,nf,,,null
+Gräsfåglar,,H,Vassångare,Locustella luscinioides,FALSE,nf,,,null
+Sylvior,Småfågel,H,Svarthätta,Sylvia atricapilla,FALSE,nf,,,null
+Sylvior,Småfågel,H,Trädgårdssångare,Sylvia borin,FALSE,nf,,,null
+Sylvior,Småfågel,H,Höksångare,Sylvia nisoria,FALSE,nf,,,null
+Sylvior,Småfågel,H,Ärtsångare,Sylvia curruca,FALSE,nf,,,null
+Sylvior,Småfågel,H,Törnsångare,Sylvia communis,FALSE,nf,,,null
+Kungsfåglar,,H,Brandkronad kungsfågel,Regulus ignicapilla,FALSE,nf,,,null
+Kungsfåglar,,H,Kungsfågel,Regulus regulus,FALSE,nf,,,null
+Gärdsmygar,,H,Gärdsmyg,Troglodytes troglodytes,TRUE,Check,Nyckelviken,2026-05-02,https://www.datocms-assets.com/147026/1777804330-gardsmyg_260502_nyckelviken_3206.jpg
+Nötväckor,Småfågel,H,Nötväcka,Sitta europaea,TRUE,Check,Jarlaberg,,https://www.datocms-assets.com/147026/1777804264-notvacka_mobile_img_20250507_120223.jpg
+Trädkrypare,Småfågel,H,Trädkrypare,Certhia familiaris,TRUE,Star,Erstaviken,2026-05-01,https://www.datocms-assets.com/147026/1777804331-tradkrypare_260501_erstavik_3084.jpg
+Trädkrypare,Småfågel,H,Trädgårdsträdkrypare,Certhia brachydactyla,FALSE,nf,,,null
+Starar,Skogsfågel,H,Stare,Sturnus vulgaris,TRUE,Check,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-stare_250511_nyckelviken_2843.jpg
+Starar,Skogsfågel,T,Rosenstare,Pastor roseus,FALSE,nf,,,null
+Trastar,Småfågel,H,Ringtrast,Turdus torquatus,FALSE,nf,,,null
+Trastar,Småfågel,H,Koltrast,Turdus merula,TRUE,Star,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-koltrast_250511_nyckelviken_2822.jpg
+Trastar,Småfågel,H,Björktrast,Turdus pilaris,TRUE,Check,Djurgården,2026-05-02,https://www.datocms-assets.com/147026/1777804330-bjorktrast_260502_djurgarden_3127.jpg
+Trastar,Småfågel,H,Rödvingetrast,Turdus iliacus,FALSE,nf,,,null
+Trastar,Småfågel,H,Taltrast,Turdus philomelos,FALSE,nf,,,null
+Trastar,Småfågel,H,Dubbeltrast,Turdus viscivorus,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Grå flugsnappare,Muscicapa striata,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Rödhake,Erithacus rubecula,TRUE,Star,Nyckelviken,2026-05-02,https://www.datocms-assets.com/147026/1777804331-rodhake_260502_nyckelviken_3205.jpg
+Flugsnappare,Småfågel,H,Näktergal,Luscinia luscinia,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Blåhake,Luscinia svecia,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Tajgablåstjärt,Tarsiger cyanurus,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Svartvit flugsnappare,Ficedula hypoleuca,TRUE,Check,Nyckelviken,2025-05-11,https://www.datocms-assets.com/147026/1777804264-svartvitflugsnappare_250511_nyckelviken_2846.jpg
+Flugsnappare,Småfågel,H,Halsbandsflugsnappare,Ficedula albicollis,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Mindre flugsnappare,Ficedula parva,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Svart rödstjärt,Phoenicurus ochruros,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Rödstjärt,Phoenicurus phoenicurus,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Buskskvätta,Saxicola rubetra,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Svarthakad buskskvätta,Saxicola rubicola,FALSE,nf,,,null
+Flugsnappare,Småfågel,H,Stenskvätta,Oenanthe oenanthe,FALSE,nf,,,null
+Strömstarar,Skogsfågel,H,Strömstare,Cinclus cinclus,FALSE,nf,,,null
+Sparvfinkar,Småfågel,H,Gråsparv,Passer domesticus,TRUE,Star,Jarlaberg,2026-02-22,https://www.datocms-assets.com/147026/1777805168-grasparv_260222_jarlaberg_3042-edited.jpeg
+Sparvfinkar,Småfågel,H,Pilfink,Passer montanus,FALSE,nf,,,null
+Järnsparvar,Småfågel,H,Järnsparv,Prunella modularis,FALSE,nf,,,null
+Ärlor,Småfågel,H,Gulärla,Motacilla flava,FALSE,nf,,,null
+Ärlor,Småfågel,h,Citronärla,Motacilla citreola,FALSE,nf,,,null
+Ärlor,Småfågel,H,Forsärla,Motacilla cinerea,FALSE,nf,,,null
+Ärlor,Småfågel,H,Sädesärla,Motacilla alba,TRUE,Star,Takene,2025-06-26,https://www.datocms-assets.com/147026/1777804264-sadesarla_250626_takene_2926.jpg
+Ärlor,Småfågel,T,Större piplärka,Anthus richardi,FALSE,nf,,,null
+Ärlor,Småfågel,H,Fältpiplärka,Anthus campestris,FALSE,nf,,,null
+Ärlor,Småfågel,H,Ängspiplärka,Anthus pratensis,FALSE,nf,,,null
+Ärlor,Småfågel,H,Trädpiplärka,Anthus trivialis,FALSE,nf,,,null
+Ärlor,Småfågel,H,Rödstrupig piplärka,Anthus cervinus,FALSE,nf,,,null
+Ärlor,Småfågel,T,Vattenpiplärka,Anthus spinoletta,FALSE,nf,,,null
+Ärlor,Småfågel,H,Skärpiplärka,Anthus petrosus,FALSE,nf,,,null
+Finkar,Småfågel,H,Bofink,Fringilla coelebs,TRUE,Check,Erstavik,2026-05-01,https://www.datocms-assets.com/147026/1777804330-bofink_260501_erstavik_3117.jpg
+Finkar,Småfågel,H,Bergfink,Fringilla montifringilla,FALSE,nf,,,null
+Finkar,Småfågel,H,Stenknäck,Coccothraustes coccothraustes,FALSE,nf,,,null
+Finkar,Småfågel,H,Tallbit,Pinicola enucleator,FALSE,nf,,,null
+Finkar,Småfågel,H,Domherre,Pyrrhula pyrrhula,FALSE,nf,,,null
+Finkar,Småfågel,H,Rosenfink,Carpodacus erythrinus,FALSE,nf,,,null
+Finkar,Småfågel,H,Grönfink,Chloris chloris,FALSE,nf,,,null
+Finkar,Småfågel,H,Vinterhämpling,Linaria flavirostris,FALSE,nf,,,null
+Finkar,Småfågel,H,Hämpling,Linaria cannabina,FALSE,nf,,,null
+Finkar,Småfågel,H,Gråsiska,Acanthis flammea,FALSE,nf,,,null
+Finkar,Småfågel,H,Större korsnäbb,Loxia pytyopsittacus,FALSE,nf,,,null
+Finkar,Småfågel,H,Mindre korsnäbb,Loxia curvirostra,FALSE,nf,,,null
+Finkar,Småfågel,H,Bändelkorsnäbb,Loxia leucoptera,FALSE,nf,,,null
+Finkar,Småfågel,H,Steglits,Carduelis carduelis,FALSE,nf,,,null
+Finkar,Småfågel,H,Gulhämpling,Serinus serinus,FALSE,nf,,,null
+Finkar,Småfågel,H,Grönsiska,Spinus spinus,FALSE,nf,,,null
+Fältsparvar,Småfågel,H,Kornsparv,Emberiza calandra,FALSE,nf,,,null
+Fältsparvar,Småfågel,H,Gulsparv,Emberiza citrinella,FALSE,nf,,,null
+Fältsparvar,Småfågel,H,Ortolansparv,Emberiza hortulana,FALSE,nf,,,null
+Fältsparvar,Småfågel,h,Dvärgsparv,Emberiza pusilla,FALSE,nf,,,null
+Fältsparvar,Småfågel,H,Videsparv,Emberiza rustica,FALSE,nf,,,null
+Fältsparvar,Småfågel,H,Sävsparv,Emberiza schoeniclus,FALSE,nf,,,null
+Sporrsparvar,Småfågel,H,Lappsparv,Calcarius lapponicus,FALSE,nf,,,null
+Sporrsparvar,Småfågel,H,Snösparv,Plectrophenax nivalis,FALSE,nf,,,null
