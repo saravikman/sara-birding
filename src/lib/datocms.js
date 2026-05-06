@@ -1,4 +1,4 @@
-import { executeQuery } from "@datocms/cda-client";
+import { executeQuery } from '@datocms/cda-client';
 
 export const performRequest = (query, options) => {
   return executeQuery(query, {

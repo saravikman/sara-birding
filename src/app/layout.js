@@ -1,7 +1,7 @@
-import "../css/globals.css";
+import '../css/globals.css';
 
 export const metadata = {
-  title: "Mina Fåglar - Sara Vikman",
+  title: 'Mina Fåglar - Sara Vikman',
   description: "Photo gallery of birds I've seen in the wild, with names and latin names.",
 };
 
